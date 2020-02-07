@@ -1,5 +1,5 @@
 #!/bin/bash
-# Administração de Sistemas
+# Administração de Sistemas 
 # Autor: Ronnyldo Rodrigues - 116110707
 # 13 de Julho de 2016
 
